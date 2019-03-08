@@ -23,13 +23,13 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: Never Say Die
+description_footer: Never Say Die ！ 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+disqus_shortname: WanQBin
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
@@ -56,5 +56,5 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 6
